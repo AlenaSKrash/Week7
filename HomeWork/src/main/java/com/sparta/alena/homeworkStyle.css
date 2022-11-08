@@ -1,5 +1,6 @@
 .box-1 {
-    background-color: darkred;
+    background-color: coral;
+    color: rgba(82, 10, 10, 0.93);
     padding: 0% 20%;
     border-top: 20px red solid;
     border-bottom: 20px red solid;
@@ -22,4 +23,20 @@ footer {
 .box-2 {
     font-size: 22px;
     font-weight: bold;
+}
+
+#search {
+    background-color: coral;
+    color: rgba(82, 10, 10, 0.93);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    border-top: 20px red solid;
+    border-bottom: 20px red solid;
+    border-left: 20px red solid;
+    border-right: 20px red solid;
+}
+
+.button{
+    padding: 10px;
 }
