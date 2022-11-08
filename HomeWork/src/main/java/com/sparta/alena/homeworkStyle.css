@@ -1,0 +1,25 @@
+.box-1 {
+    background-color: darkred;
+    padding: 0% 20%;
+    border-top: 20px red solid;
+    border-bottom: 20px red solid;
+    border-left: 20px red solid;
+    border-right: 20px red solid;
+    font-family: Arial;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    font-size: large;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box-2 {
+    font-size: 22px;
+    font-weight: bold;
+}
