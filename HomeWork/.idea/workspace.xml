@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a706b4b-913b-4c1f-b65c-c7d823aecc1a" name="Changes" comment="Before CSS">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/alena/homeworkStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/alena/homeworkStyle.css" afterDir="false" />
-    </list>
+    <list default="true" id="4a706b4b-913b-4c1f-b65c-c7d823aecc1a" name="Changes" comment="Before CSS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667942431237</updated>
       <workItem from="1667942434123" duration="3000" />
-      <workItem from="1667942450064" duration="6024000" />
+      <workItem from="1667942450064" duration="6339000" />
     </task>
     <task id="LOCAL-00001" summary="Before CSS">
       <created>1667945397411</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667948435364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Before CSS">
+      <created>1667948504997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667948504997</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
