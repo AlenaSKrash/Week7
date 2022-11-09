@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a706b4b-913b-4c1f-b65c-c7d823aecc1a" name="Changes" comment="Before CSS" />
+    <list default="true" id="4a706b4b-913b-4c1f-b65c-c7d823aecc1a" name="Changes" comment="Before CSS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebTesting/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667942431237</updated>
       <workItem from="1667942434123" duration="3000" />
-      <workItem from="1667942450064" duration="6339000" />
+      <workItem from="1667942450064" duration="8005000" />
     </task>
     <task id="LOCAL-00001" summary="Before CSS">
       <created>1667945397411</created>
